@@ -86,3 +86,10 @@ h1.intro{
     float: left;
     text-align: center;
 }
+.images{
+    height: 485px;
+    width: 485px;
+    margin-bottom:7px;
+    margin-left:5px;
+    margin-right:5px;
+}
